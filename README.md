@@ -1,7 +1,7 @@
 # SamuelMonsalvesMoreira                  :brazil:
 
 ## Hi there 👋
-<!--
+
 **SamuelMonsalvesMoreira/SamuelMonsalves** 
 
 Here are some ideas to get you started:
