@@ -1,7 +1,6 @@
 # SamuelMonsalvesMoreira                  :brazil:
 
 ## Hi there 👋
-
 <!--
 **SamuelMonsalvesMoreira/SamuelMonsalves** 
 
