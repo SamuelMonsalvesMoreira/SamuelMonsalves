@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning data engineering structure
 
 
-## Contatos:
+## Contats:
 
 <div>
 
