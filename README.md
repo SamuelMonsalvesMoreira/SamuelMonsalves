@@ -1,7 +1,5 @@
 # SamuelMonsalvesMoreira                  :brazil:
 
-## Hi there 👋
-
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Samuel Monsalves Moreira and my nickname is Sam !
 
