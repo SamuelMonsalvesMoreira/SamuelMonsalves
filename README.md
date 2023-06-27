@@ -2,6 +2,9 @@
 
 ## Hi there 👋
 
+# 👋 Hello! Welcome to my Github profile.
+## My name is Samuel Monsalves Moreira and my nickname is Sam !
+
 **SamuelMonsalvesMoreira/SamuelMonsalves** 
 
 Here are some ideas to get you started:
@@ -14,6 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
