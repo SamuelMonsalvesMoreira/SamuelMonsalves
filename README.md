@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/samuel-monsalves-moreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/samuel-monsalves-moreira//blob/output/github-contribution-grid-snake.svg)
+
