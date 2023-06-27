@@ -1,3 +1,3 @@
-# SamuelMonsalvesMoreira 😊 :blush:
+# SamuelMonsalvesMoreira 😊 
 
 
