@@ -9,8 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning data engineering structure
 
 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
 ## Contatos:
 
 <div>
