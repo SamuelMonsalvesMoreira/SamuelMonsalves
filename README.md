@@ -3,8 +3,6 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Samuel Monsalves Moreira and my nickname is Sam !
 
-**SamuelMonsalvesMoreira/SamuelMonsalves** 
-
 Here are some ideas to get you started:
 
 - 🔭 I'm not currently working
